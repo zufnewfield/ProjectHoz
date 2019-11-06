@@ -1,0 +1,7 @@
+C:\Users\THINK\Desktop\תרגיליפ\dotNet5780_01_3177\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\THINK\Desktop\תרגיליפ\dotNet5780_01_3177\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\THINK\Desktop\תרגיליפ\dotNet5780_01_3177\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\THINK\Desktop\תרגיליפ\dotNet5780_01_3177\ConsoleApp1\obj\Debug\part02.csprojAssemblyReference.cache
+C:\Users\THINK\Desktop\תרגיליפ\dotNet5780_01_3177\ConsoleApp1\obj\Debug\part02.csproj.CoreCompileInputs.cache
+C:\Users\THINK\Desktop\תרגיליפ\dotNet5780_01_3177\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\THINK\Desktop\תרגיליפ\dotNet5780_01_3177\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

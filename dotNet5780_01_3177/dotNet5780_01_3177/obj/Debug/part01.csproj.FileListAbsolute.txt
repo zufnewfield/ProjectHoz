@@ -1,0 +1,7 @@
+C:\Users\THINK\Desktop\תרגיליפ\dotNet5780_01_3177\dotNet5780_01_3177\bin\Debug\dotNet5780_01_3177.exe.config
+C:\Users\THINK\Desktop\תרגיליפ\dotNet5780_01_3177\dotNet5780_01_3177\bin\Debug\dotNet5780_01_3177.exe
+C:\Users\THINK\Desktop\תרגיליפ\dotNet5780_01_3177\dotNet5780_01_3177\bin\Debug\dotNet5780_01_3177.pdb
+C:\Users\THINK\Desktop\תרגיליפ\dotNet5780_01_3177\dotNet5780_01_3177\obj\Debug\part01.csprojAssemblyReference.cache
+C:\Users\THINK\Desktop\תרגיליפ\dotNet5780_01_3177\dotNet5780_01_3177\obj\Debug\part01.csproj.CoreCompileInputs.cache
+C:\Users\THINK\Desktop\תרגיליפ\dotNet5780_01_3177\dotNet5780_01_3177\obj\Debug\dotNet5780_01_3177.exe
+C:\Users\THINK\Desktop\תרגיליפ\dotNet5780_01_3177\dotNet5780_01_3177\obj\Debug\dotNet5780_01_3177.pdb
